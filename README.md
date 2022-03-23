@@ -8,4 +8,4 @@ ansible-playbook -i inventory play-book.yaml
 - Then go to publicip:8000 in a browser.
 
 ## result image
-![alt text](https://github.com/ahmedsalaheldin12/automate-nexus-deployment/tree/master/images)
+![alt text](https://github.com/ahmedsalaheldin12/automate-nexus-deployment/blob/master/images/Screenshot%20from%202022-03-23%2023-24-31.png)
